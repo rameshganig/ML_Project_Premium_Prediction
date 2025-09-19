@@ -210,6 +210,3 @@ __marimo__/
 
 # Streamlit cache
 .streamlit/
-artifacts/*
-!artifacts/models/
-!artifacts/models/*
