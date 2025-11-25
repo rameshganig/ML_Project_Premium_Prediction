@@ -56,8 +56,9 @@ ML_Project_Premium_Prediction/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 ```
+---
+
 ## 📸 Screenshots
 
 ![Dashboard View](artifacts/dashboard.png)
-
-![Model Results](model_results.png)
+![Model Results](artifacts/model_results.png)
