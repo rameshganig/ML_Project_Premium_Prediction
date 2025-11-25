@@ -35,3 +35,10 @@ The model includes data preprocessing, feature engineering, and predictive model
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/ML_Project_Premium_Prediction.git
+
+### 2️⃣ Install required Python libraries
+
+To install all the required Python libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
