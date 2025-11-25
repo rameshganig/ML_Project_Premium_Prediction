@@ -7,6 +7,8 @@
 This project aims to build a Machine Learning model to predict insurance premium amounts based on historical data and relevant features.  
 The model includes data preprocessing, feature engineering, and predictive modeling techniques for accurate predictions.
 
+here the Data is Split in to two category Yong and Rest, reson being the final model performance was afected by the yong <25 age when we built the model with over all data, so we analised that and concluded to split the data and process the data sepratly and built the individula models.
+
 ---
 
 ## ✨ Features
@@ -20,13 +22,20 @@ The model includes data preprocessing, feature engineering, and predictive model
 ---
 
 ## 📊 Dataset
-- **Source:** (Mention dataset source, e.g., Kaggle, UCI, or internal)  
+- **Source:** (Dataset was provided by the Trainer)  
 - **Description:** The dataset contains customer information and factors affecting premium calculation, including:  
   - Age  
   - Gender  
-  - Vehicle type  
-  - Claim history  
-  - Other relevant features  
+  - Number of Dependants 
+  - income in lakhs  
+  - Genetical risk
+  - Insurance Plan
+  - Employment Status
+  - Merital Status
+  - BMI Category
+  - Smoking Status
+  - Region
+  - MEdical History 
 
 ---
 
